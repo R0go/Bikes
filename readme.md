@@ -4,12 +4,12 @@ The informal aim of this project was to test my data analytical skills and build
 </br>
 The project is completed, however much can be improved in the model through further data regularization and hyperparameter tuning. In the future I would like to transform the underlying data even further for model efficiency's sake (e.g. log transformations, Ridge regularization) and test a different regression model within this project.</br>
 
-## Dataset source
-https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand</br>
-
 ## Technical background
 Libraries used:</br>
 pandas, numpy, matplotlib, seaborn, statsmodels, scipy, sklearn, functools, mlxtend</br>
+</br>
 Tags:</br>
 data analysis, data correlation, machine learning, linear regression, decision tree regression, feature engineering, data scaling, hyperparameter tuning, data visualization</br>
 
+## Dataset source
+https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand</br>
